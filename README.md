@@ -2,6 +2,8 @@
 
 《你不知道的 JavaScript（上中下卷）》中文
 
+感谢原作！原 repo 地址：[https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+
 ## 书目
 
 - [起步上路](docs/up&going/)
