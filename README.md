@@ -4,14 +4,14 @@
 
 感谢原作！原 repo 地址：[https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
-## 书目
+## 在线阅读（github-page）
 
-- [起步上路](docs/up&going/)
-- [作用域与闭包](docs/scope&closures/)
-- [this 与对象原型](docs/this&objectprototypes/)
-- [类型与文法](docs/types&grammar/)
-- [异步与性能](docs/async&performance/)
-- [ES6 与未来](docs/es6&beyond/)
+- 起步上路：[https://gdut-yy.github.io/module_book/JS/up&going/ch1.html](https://gdut-yy.github.io/module_book/JS/up&going/ch1.html)
+- 作用域与闭包：[https://gdut-yy.github.io/module_book/JS/scope&closures/ch1.html](https://gdut-yy.github.io/module_book/JS/scope&closures/ch1.html)
+- this 与对象原型：[https://gdut-yy.github.io/module_book/JS/this&objectprototypes/ch1.html](https://gdut-yy.github.io/module_book/JS/this&objectprototypes/ch1.html)
+- 类型与文法：[https://gdut-yy.github.io/module_book/JS/types&grammar/ch1.html](https://gdut-yy.github.io/module_book/JS/types&grammar/ch1.html)
+- 异步与性能：[https://gdut-yy.github.io/module_book/JS/async&performance/ch1.html](https://gdut-yy.github.io/module_book/JS/async&performance/ch1.html)
+- ES6 与未来：[https://gdut-yy.github.io/module_book/JS/es6&beyond/ch1.html](https://gdut-yy.github.io/module_book/JS/es6&beyond/ch1.html)
 
 ## 本地开发 & 阅读
 
