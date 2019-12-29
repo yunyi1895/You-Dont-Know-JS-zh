@@ -6,12 +6,12 @@
 
 ## 在线阅读（github-page）
 
-- 起步上路：[https://gdut-yy.github.io/module_book/JS/up&going/ch1.html](https://gdut-yy.github.io/module_book/JS/up&going/ch1.html)
-- 作用域与闭包：[https://gdut-yy.github.io/module_book/JS/scope&closures/ch1.html](https://gdut-yy.github.io/module_book/JS/scope&closures/ch1.html)
-- this 与对象原型：[https://gdut-yy.github.io/module_book/JS/this&objectprototypes/ch1.html](https://gdut-yy.github.io/module_book/JS/this&objectprototypes/ch1.html)
-- 类型与文法：[https://gdut-yy.github.io/module_book/JS/types&grammar/ch1.html](https://gdut-yy.github.io/module_book/JS/types&grammar/ch1.html)
-- 异步与性能：[https://gdut-yy.github.io/module_book/JS/async&performance/ch1.html](https://gdut-yy.github.io/module_book/JS/async&performance/ch1.html)
-- ES6 与未来：[https://gdut-yy.github.io/module_book/JS/es6&beyond/ch1.html](https://gdut-yy.github.io/module_book/JS/es6&beyond/ch1.html)
+- 起步上路：[http://gdut_yy.gitee.io/doc-ydkjs/up&going/ch1.html](http://gdut_yy.gitee.io/doc-ydkjs/up&going/ch1.html)
+- 作用域与闭包：[http://gdut_yy.gitee.io/doc-ydkjs/scope&closures/ch1.html](http://gdut_yy.gitee.io/doc-ydkjs/scope&closures/ch1.html)
+- this 与对象原型：[http://gdut_yy.gitee.io/doc-ydkjs/this&objectprototypes/ch1.html](http://gdut_yy.gitee.io/doc-ydkjs/this&objectprototypes/ch1.html)
+- 类型与文法：[http://gdut_yy.gitee.io/doc-ydkjs/types&grammar/ch1.html](http://gdut_yy.gitee.io/doc-ydkjs/types&grammar/ch1.html)
+- 异步与性能：[http://gdut_yy.gitee.io/doc-ydkjs/async&performance/ch1.html](http://gdut_yy.gitee.io/doc-ydkjs/async&performance/ch1.html)
+- ES6 与未来：[http://gdut_yy.gitee.io/doc-ydkjs/es6&beyond/ch1.html](http://gdut_yy.gitee.io/doc-ydkjs/es6&beyond/ch1.html)
 
 ## 本地开发 & 阅读
 
